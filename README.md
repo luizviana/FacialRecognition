@@ -3,14 +3,16 @@ Face Recognizer - OpenCV Python3
 Requirements:
 Python3, opencv_contrib_python, opencv_python, numpy.
 
-Set up a webcam and run the script with "python facerec.py"
+* How to use:
 
-the script will detect a face. 
+  Set up a webcam and run the script with `python facerec.py`
+  
+  the script will detect a face. 
 
-Press "s" and input a name to save the face of a person.
+  Press "s" and input a name to save the face of a person.
 
-Press "t" to train the script to recognize all saved faces.
+  Press "t" to train the script to recognize all saved faces.
 
-after it, the script will recognize the faces.
+  after it, the script will recognize the faces.
 
-Press "q" to quit.
+  Press "q" to quit.
