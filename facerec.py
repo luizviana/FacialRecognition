@@ -48,7 +48,11 @@ persons = []
 
 recognizer = cv2.face.LBPHFaceRecognizer_create()
 
+#CAPTURE WEBCAM
 cap = cv2.VideoCapture(0)
+
+#CAPTURE VIDEO FILE
+#cap = cv2.VideoCapture("video.mp4")
 
 # LOAD HAAR CASCADE
 face_cascade = cv2.CascadeClassifier('haarcascade-frontalface-default.xml')
