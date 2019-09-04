@@ -83,7 +83,7 @@ while(True):
             savecount = 0
 
     cv2.imshow('normalframe', normalframe)
-    cv2.imshow('gray', gray)
+    #cv2.imshow('gray', gray)
 
     key = cv2.waitKey(1)
 
