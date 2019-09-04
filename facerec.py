@@ -87,15 +87,15 @@ while(True):
 
     key = cv2.waitKey(1)
 
-    # SALVE IMAGE
+    # PRESS "s" TO SALVE FACE IMAGES
     if key == ord('s'):
         savePerson()
 
-    # TRAIN IMAGE
+    # PRESS "t" TO TRAIN IMAGE
     if key == ord('t'):
         trainData()
 
-    # QUIT 
+    # PRESS "q" TO QUIT 
     if key == ord('q'):
         break
 
