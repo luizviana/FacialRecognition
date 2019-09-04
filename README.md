@@ -14,5 +14,7 @@ Python3, opencv_contrib_python, opencv_python, numpy.
   Press "t" to train the script to recognize all saved faces.
 
   after it, the script will recognize the faces.
+  
+  ![realtime_webcam](./test.png)
 
   Press "q" to quit.
