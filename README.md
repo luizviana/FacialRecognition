@@ -1,5 +1,5 @@
-# Real time - FaceRecognizer
-Webcam Real Time Face Recognizer - OpenCV Python3
+# Real time - Facial Recognition
+Webcam Real Time Facial Recognition - OpenCV Python3
 Requirements:
 Python3, opencv_contrib_python, opencv_python, numpy.
 
